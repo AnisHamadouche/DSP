@@ -14,3 +14,5 @@ gcc -o main main.cc fir.cc tb.cc -I. -I$SYSTEMC/include -L $SYSTEMC/lib-linux64 
 Now run the simulation by typing the following
 
 ./main
+
+Simulation data is recorded in the newly generated "output.dat" file.
