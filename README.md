@@ -1,6 +1,6 @@
-#Compilation
+# Compilation
 
-##Prerequisite
+## Prerequisite
  * GNU C Compiler
  * SystemC
  * C++ standard library
